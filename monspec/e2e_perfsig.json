@@ -22,7 +22,6 @@
             "upperSevere": 800.0,
             "upperWarning" : 600.0
         },
-		//added lines below
 	{
   	   "timeseriesId" : "com.dynatrace.builtin:servicemethod.responsetime",
  	   "aggregation" : "avg",
